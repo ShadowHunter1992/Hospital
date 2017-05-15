@@ -1,0 +1,6 @@
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\bin\Debug\Xestexana.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\bin\Debug\Xestexana.exe
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\bin\Debug\Xestexana.pdb
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\obj\Debug\Xestexana.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\obj\Debug\Xestexana.exe
+c:\users\p501\documents\visual studio 2017\Projects\Xestexana\Xestexana\obj\Debug\Xestexana.pdb
